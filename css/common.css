@@ -102,7 +102,7 @@ section {
   position: relative;
   height: 400px;
   background: #ccc;
-  background-image: url("/eryn/images/event_banner.jpg");
+  background-image: url("/images/event_banner.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -133,12 +133,12 @@ section {
   /* outline: 1px solid red; */
 }
 #news article:first-child {
-  background-image: url("/eryn/images/news_banner1.jpg");
+  background-image: url("/images/news_banner1.jpg");
   background-size: cover;
   background-position: center;
 }
 #news article:last-child {
-  background-image: url("/eryn/images/news_banner2.jpg");
+  background-image: url("/images/news_banner2.jpg");
   background-size: cover;
   background-position: center;
 }
